@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "*": ["./src/*"],
+      "core/*": ["./src/core/*"],
+      "ui-component/*": ["./src/ui-component/*"],
+      "assets/*": ["./src/assets/*"],
+      "routes/*": ["./src/routes/*"],
+      "layout/*": ["./src/layout/*"],
+      "menu-items/*": ["./src/nume-items"],
+      "store/*": ["./src/store/*"],
+      "themes/*": ["./src/themes"],
+      "components/*": ["./src/components"],
+      "views/*": ["./src/views/*"],
+      "api/*": ["./src/api/*"],
+      "context/*": ["./src/context/*"]
+    }
+  }
+}
